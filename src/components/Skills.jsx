@@ -53,6 +53,8 @@ const Skills = () => {
         'RESTful APIs',
         'MongoDB',
         'MySQL',
+        'Java',
+        'Spring Boot',
       ],
       icon: (
         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -69,6 +71,8 @@ const Skills = () => {
         'Netlify',
         'Postman',
         'Canva',
+      
+
       ],
       icon: (
         <svg className="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -12,8 +12,8 @@ const Contact = () => {
   const sectionRef = useRef(null)
 
   // API URL - Works with both Vite and Create React App
-  const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
-  // const API_URL = import.meta.env.VITE_API_URL || 'https://arun-portfolio-1.onrender.com'
+  // const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
+  const API_URL = import.meta.env.VITE_API_URL || 'https://siranjeevi-portfolio.onrender.com'
 
 
 
