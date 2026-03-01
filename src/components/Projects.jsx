@@ -26,7 +26,7 @@ const Projects = () => {
         'A responsive portfolio website built with React.js, Tailwind CSS, and backend technologies, featuring a modern UI and optimized performance.',
       technologies: ['React.js', 'Tailwind CSS', 'Node.js', 'Express.js', 'MongoDB'],
       liveLink: '#',
-      githubLink: 'https://github.com/ARUNKUMAR-VENKATRAMAN/ARUN-PORTFOLIO',
+      githubLink: 'https://github.com/Siranjeevi0622/siranjeevi-portfolio.git',
       image: 'portfolio.png',
     },
     {
