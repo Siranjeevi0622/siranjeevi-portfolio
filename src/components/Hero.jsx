@@ -3,8 +3,8 @@ import React from 'react'
 const Hero = () => {
   const handleDownloadResume = () => {
     const link = document.createElement('a')
-    link.href = 'SIRANJEEVI-Resume.pdf'
-    link.download = 'SIRANJEEVI-Resume.pdf'
+    link.href = 'Siranjeevi-Resume.pdf'
+    link.download = 'Siranjeevi-Resume.pdf'
     document.body.appendChild(link)
     link.click()
     document.body.removeChild(link)
